@@ -1,0 +1,31 @@
+Evaluation- 23/09/2022
+ Present all task (10- 15 minutes)
+1. make a powerpoint presentation(Document 1)
+
+2. Make a document on technology(2&3 document 2)
+
+2.1. ASP.NET
+2.2. ASP.NET WEB FORMS
+2.3. CSS
+2.4. BOOTSTEP
+2.5. Javascript
+2.6. HTML
+2.7. C#
+ 
+
+3. SQL SERVER
+3.1.CREATE DATABASE
+3.2. CREATE TABLE
+3.3. SQL FOR INSERT, UPDATE, DELETE, SELECT
+
+
+
+
+4. Software requirement analysis for HRIS.(document  3)  
+
+
+Industry visit- 22/09/2022
+1. Present
+2. Industry culrure
+3. Code push on git ripo
+4.  
